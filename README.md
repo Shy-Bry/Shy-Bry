@@ -2,7 +2,12 @@
 
 ## Names Shy-Bry!
 -  Pronouns: He/Any
-  
+
+
+## Stuff Im doin
+
+- [**Video Game**](https://github.com/Shy-Bry/Movement-Slop-DeckBuilder) — Video game Im working on with a friend, check out the README
+- 
 <!--
 - I’m currently working on 
 - I’m currently learning ...
