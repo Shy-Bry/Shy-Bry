@@ -2,7 +2,7 @@
   
 <h1>Sorry For Keeping You Waiting!</h1>
 
-<img src="./assets./recordPlayer.svg" alt="Now Playing something..." width="100%" />
+<img src="./Assets./recordPlayer.svg" alt="Now Playing something..." width="100%" />
 
 
 ### Names Shy-Bry!
