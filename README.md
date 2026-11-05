@@ -1,8 +1,13 @@
-# Sorry For Keeping You Waiting!
+<div align="center">
+  
+<h1>Sorry For Keeping You Waiting!</h1>
 
-## Names Shy-Bry!
--  Pronouns: He/Any
+<img src="./assets/recordPlayer.svg" alt="Now Playing something..." width="100%" />
 
+
+### Names Shy-Bry!
+Pronouns: He/Any
+</div>
 
 ## Stuff Im doin
 
