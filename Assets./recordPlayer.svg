@@ -13,12 +13,10 @@
       <stop offset="0.66" stop-color="#9961daff"/>
       <stop offset="1" stop-color="#9c6ed1ff"/>
   </linearGradient>
-
-  <pattern id="image-fill" patternUnits="objectBoundingBox" width="1" height="1">
-      <image href="./Assets./Cover.jpg" x="0" y="0" width="300" height="200" preserveAspectRatio="xMidYMid slice" />
-  </pattern>
   
   <rect width="700" height="200" rx="10" fill="url(#bg)"/>
+
+        <image href="Cover.jpg" x="400" y="20" width="300" height="300" preserveAspectRatio="xMidYMid slice" />
   
   <g id="disk">
   <circle cx="80" cy="100" r="70" fill="#000000"/>
